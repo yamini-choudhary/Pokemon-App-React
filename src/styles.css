@@ -55,7 +55,7 @@ h2 {
   padding: 20px 16px;
   border: 1px solid white;
   border-radius: 2px;
-  min-width: 200px;
+  width: 200px;
   text-align: center;
   transition: transform 0.3s ease-in-out;
   text-transform: capitalize;
